@@ -1,4 +1,4 @@
-﻿namespace lab1.Notification;
+﻿namespace lab1.Entity;
 
 public class Project
 {

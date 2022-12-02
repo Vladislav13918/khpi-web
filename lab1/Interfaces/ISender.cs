@@ -1,6 +1,6 @@
 ﻿namespace lab1.Interfaces;
 
-using lab1.Notification;
+using lab1.Entity;
 
 
 public interface ISender

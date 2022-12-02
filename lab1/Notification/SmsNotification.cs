@@ -1,8 +1,8 @@
-﻿namespace lab1.Services;
+﻿namespace lab1.Notification;
 
 using System;
 using lab1.Interfaces;
-using lab1.Notification;
+using lab1.Entity;
 
 
 public class SmsNotification : ISender

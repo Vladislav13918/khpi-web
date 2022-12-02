@@ -1,4 +1,4 @@
-﻿namespace lab1.Services;
+﻿namespace lab1.Notification;
 
 using lab1.Interfaces;
 
