@@ -1,7 +1,7 @@
 ﻿namespace lab1.Interfaces;
 
 using System;
-using lab1.Core;
+using lab1.Notification;
 
 public interface ILogger
 {

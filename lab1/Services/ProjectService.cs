@@ -2,7 +2,7 @@
 
 using System;
 using lab1.Interfaces;
-using lab1.Core;
+using lab1.Notification;
 
 
 public class ProjectService

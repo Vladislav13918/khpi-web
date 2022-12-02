@@ -1,7 +1,7 @@
 ﻿namespace lab1;
 
 using lab1.Interfaces;
-using lab1.Core;
+using lab1.Notification;
 using lab1.Services;
 
 public static class Program

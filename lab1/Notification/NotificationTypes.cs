@@ -1,4 +1,4 @@
-﻿namespace lab1.Core;
+﻿namespace lab1.Notification;
 
 public enum NotificationTypes
 {
